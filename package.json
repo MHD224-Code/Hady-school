@@ -1,0 +1,21 @@
+{
+  "name": "hady-school",
+  "version": "1.0.0",
+  "description": "Gestion scolaire Hady School - Primaire, Secondaire, Lycée",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHD224-Code/Hady-school.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MHD224-Code/Hady-school/issues"
+  },
+  "homepage": "https://github.com/MHD224-Code/Hady-school#readme"
+}
